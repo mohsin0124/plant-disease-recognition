@@ -1,0 +1,7 @@
+streamlit
+tensorflow-cpu
+numpy
+requests
+pillow
+deep-translator
+groq
